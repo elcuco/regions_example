@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Region list</string>
+    <string name="action_settings">Settings</string>
+    <string name="KM">KM</string>
+    <string name="capital">Capital</string>
+    <string name="currency">Currency</string>
+    <string name="borders">Borders</string>
+    <string name="choose_a_region">Choose a region</string>
+    <string name="action_cache">Clear cache</string>
+
+    <array name="region_names">
+        <item>Africa</item>
+        <item>Americas</item>
+        <item>Asia</item>
+        <item>Europe</item>
+        <item>Oceania</item>
+    </array>
+    <array name="region_ids">
+        <item>africa</item>
+        <item>americas</item>
+        <item>asia</item>
+        <item>europe</item>
+        <item>oceania</item>
+    </array>
+</resources>
